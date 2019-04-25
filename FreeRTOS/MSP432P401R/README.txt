@@ -1,0 +1,1 @@
+This folder contains the static library for the MSP432P401R. To use it copy the entire FreeRTOS folder into your C: drive and then import the sample project into Code Composer Studio.
